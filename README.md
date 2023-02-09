@@ -7,7 +7,9 @@ I’m a software developer currently working on projects related to:
 
 📫 How to reach me:
 
-<a href="https://www.linkedin.com/in/de-angelo-mucha/"><img src=https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg height="20px"/><a/>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelo.mucha.yllanes@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/de-angelo-mucha)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Angelo15M)
 
 <!--
 **AngeloM15/AngeloM15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

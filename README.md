@@ -1,10 +1,10 @@
 ### Hi everyone 👋
 
 🔭 I’m currently working on projects related to: 
-- data engineer
-- firmware
+- Data Engineer
+- Firmware development
 
-📫 How to reach me:
+
 <a href="https://www.linkedin.com/in/e-angelo-mucha/"><img src=https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg height="20px"/><a/>
 
 <!--

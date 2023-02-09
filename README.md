@@ -2,8 +2,8 @@
 
 🔭 I’m currently working on data engineer projects.
 📫 How to reach me:
-- angelo.mucha.yllanes@gmail.com
-- [LinkedIn]([http://example.com](https://www.linkedin.com/in/de-angelo-mucha/))
+- [Email](angelo.mucha.yllanes@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/de-angelo-mucha/)
 
 <!--
 **AngeloM15/AngeloM15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

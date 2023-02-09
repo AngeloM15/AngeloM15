@@ -1,6 +1,8 @@
 ### Hi everyone 👋
 
-🔭 I’m currently working on data engineer projects.
+🔭 I’m currently working on projects related to: 
+- data engineer
+- firmware
 
 📫 How to reach me:
 - Email: angelo.mucha.yllanes@gmail.com

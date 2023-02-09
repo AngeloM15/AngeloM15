@@ -5,7 +5,7 @@
 - Firmware development
 
 
-[![Follow](https://img.shields.io/twitter/follow/Angelo15M?style=social)](https://twitter.com/intent/follow?screen_name=Angelo15M)      <a href="https://www.linkedin.com/in/e-angelo-mucha/"><img src=https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg height="20px"/><a/>
+[![Follow](https://img.shields.io/twitter/follow/Angelo15M?style=social)](https://twitter.com/intent/follow?screen_name=Angelo15M)    <a href="https://www.linkedin.com/in/e-angelo-mucha/"><img src=https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg height="20px"/><a/>
 
 <!--
 **AngeloM15/AngeloM15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,11 +1,12 @@
-### Hi everyone !!!
+# Hi everyone! 👋
 
-I’m a software developer currently working on projects related to: 
-- Data Engineer
-- Firmware development
+> A quick introduction about me
+Hi, I'm __Angelo__ a Data Engineer who likes programming and playing with data.
 
+## Contact with me
 
-📫 How to reach me:
+> How can you get in touch with me
+These are the channels you can use to contact with me:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelo.mucha.yllanes@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/de-angelo-mucha)

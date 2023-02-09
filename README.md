@@ -1,8 +1,9 @@
 ### Hi everyone 👋
 
 🔭 I’m currently working on data engineer projects.
+
 📫 How to reach me:
-- [Email](angelo.mucha.yllanes@gmail.com)
+- Email: angelo.mucha.yllanes@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/de-angelo-mucha/)
 
 <!--

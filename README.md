@@ -1,4 +1,4 @@
-# Hi everyone! 👋
+# Hi everyone! ✌️
 
 > A quick introduction about me
 

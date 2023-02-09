@@ -2,7 +2,7 @@
 
 > A quick introduction about me
 
-I'm __Angelo__ a Data Engineer who likes programming and playing with data, mainly with Python and Postgres.
+I'm __Angelo__ a Software developer who likes playing with data, mainly with Python and Postgres.
 
 ## Contact with me
 

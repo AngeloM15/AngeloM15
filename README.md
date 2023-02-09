@@ -1,6 +1,6 @@
-### Hi everyone 👋
+### Hi everyone !!!
 
-🔭 I’m currently working on projects related to: 
+I’m a software developer currently working on projects related to: 
 - Data Engineer
 - Firmware development
 

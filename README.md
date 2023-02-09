@@ -1,11 +1,13 @@
 # Hi everyone! 👋
 
 > A quick introduction about me
+
 Hi, I'm __Angelo__ a Data Engineer who likes programming and playing with data.
 
 ## Contact with me
 
 > How can you get in touch with me
+
 These are the channels you can use to contact with me:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelo.mucha.yllanes@gmail.com)

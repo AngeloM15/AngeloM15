@@ -2,7 +2,7 @@
 
 > A quick introduction about me
 
-I'm __Angelo__, a software developer who likes playing with large dataset and programing firmware; mainly with Python and Postgres.
+I'm __Angelo__, a software developer who likes playing with large datasets and programing firmware; mainly with Python and Postgres.
 
 ## Contact with me
 

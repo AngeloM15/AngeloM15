@@ -1,4 +1,3 @@
-# Hi everyone! ✌️
 <!-- 
 > A quick introduction about me
 
@@ -16,7 +15,8 @@ These are the channels you can use to contact with me:
  -->
 
 # 💫 About Me:
-I'm Angelo, a software developer who likes<br>_> playing with large datasets <br>_> programing firmware<br>_> Make short video games
+Hi everyone! ✌️
+I'm Angelo, a software developer who likes<br> _> playing with large datasets <br> _> programing firmware<br> _> Make short video games
 
 
 ## 🌐 Socials:

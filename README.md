@@ -16,10 +16,11 @@ These are the channels you can use to contact with me:
 
 # 💫 About Me:
 Hi everyone! ✌️
-I'm Angelo, a software developer who likes<br> _> playing with large datasets <br> _> programing firmware<br> _> Make short video games
+I'm Angelo, a software developer who likes...<br> _> Playing with large datasets <br> _> Programing firmware<br> _> Make short video games
 
 
 ## 🌐 Socials:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelo.mucha.yllanes@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/de-angelo-mucha) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Angelo15M) 
 
 # 💻 Tech Stack:
